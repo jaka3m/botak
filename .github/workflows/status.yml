@@ -5,6 +5,10 @@ on:
     - cron: '0 0 */3 * *'
   workflow_dispatch:
 
+# ✅ Tambahkan ini
+permissions:
+  contents: write
+
 jobs:
   update-proxies:
     runs-on: ubuntu-latest
@@ -12,6 +16,10 @@ jobs:
     steps:
     - name: 📂 Checkout Repository
       uses: actions/checkout@v3
+      # Opsional tapi direkomendasikan:
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
 
     - name: 🐍 Set Up Python
       uses: actions/setup-python@v4
@@ -25,7 +33,6 @@ jobs:
 
     - name: 🔄 Update Proxy Status
       run: |
-        # Menggunakan flag -u agar log muncul secara Real-Time
         python -u ./cek/scan.py
 
     - name: 📤 Commit and Push Changes
