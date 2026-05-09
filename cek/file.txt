@@ -1,3 +1,534 @@
+IP地址,端口,TLS,数据中心,地区,城市,ASN,网络延迟
+18.159.105.97,80,false,FRA,Europe,Frankfurt,16509,4 ms
+3.127.55.133,80,false,FRA,Europe,Frankfurt,16509,4 ms
+54.151.9.4,80,true,SJC,North America,San Jose,16509,4 ms
+44.228.63.60,80,true,SEA,North America,Seattle,16509,5 ms
+3.67.232.136,80,false,FRA,Europe,Frankfurt,16509,5 ms
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,16509,5 ms
+54.161.151.0,80,false,IAD,North America,Ashburn,14618,5 ms
+54.203.85.46,80,true,SEA,North America,Seattle,16509,5 ms
+3.67.232.136,80,false,FRA,Europe,Frankfurt,16509,5 ms
+35.180.38.14,80,false,CDG,Europe,Paris,16509,5 ms
+54.213.92.168,80,false,SEA,North America,Seattle,16509,5 ms
+54.213.94.219,80,false,SEA,North America,Seattle,16509,5 ms
+67.226.221.170,80,true,SJC,North America,San Jose,16509,5 ms
+51.112.97.191,80,false,MRS,Europe,Marseille,16509,5 ms
+204.110.220.210,80,true,SJC,North America,San Jose,16509,5 ms
+3.10.148.26,80,false,LHR,Europe,London,16509,5 ms
+52.41.218.4,80,true,SEA,North America,Seattle,16509,5 ms
+43.204.208.173,80,false,BOM,Asia Pacific,Mumbai,16509,5 ms
+18.171.53.61,80,false,LHR,Europe,London,16509,5 ms
+204.110.220.159,80,true,SJC,North America,San Jose,16509,5 ms
+52.29.224.33,80,false,FRA,Europe,Frankfurt,16509,5 ms
+67.226.221.35,80,true,SJC,North America,San Jose,16509,5 ms
+67.226.222.40,80,true,ORD,North America,Chicago,16509,5 ms
+54.176.205.20,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.173,80,true,SJC,North America,San Jose,16509,5 ms
+54.149.11.131,80,true,SEA,North America,Seattle,16509,5 ms
+204.110.220.15,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.200,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.143,80,true,SJC,North America,San Jose,16509,5 ms
+3.218.127.188,80,false,IAD,North America,Ashburn,14618,5 ms
+18.188.138.151,80,false,ORD,North America,Chicago,16509,5 ms
+3.10.148.26,80,false,LHR,Europe,London,16509,5 ms
+3.68.62.122,80,false,FRA,Europe,Frankfurt,16509,5 ms
+35.183.163.195,80,true,YUL,North America,Montréal,16509,5 ms
+67.226.221.188,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.96,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.43,80,true,SJC,North America,San Jose,16509,5 ms
+204.110.220.71,80,true,SJC,North America,San Jose,16509,5 ms
+18.196.93.254,80,false,FRA,Europe,Frankfurt,16509,6 ms
+18.185.254.189,80,false,FRA,Europe,Frankfurt,16509,6 ms
+67.226.221.175,80,true,SJC,North America,San Jose,16509,6 ms
+3.6.136.68,80,false,BOM,Asia Pacific,Mumbai,16509,6 ms
+204.110.220.118,80,true,SJC,North America,San Jose,16509,6 ms
+54.177.181.158,80,true,SJC,North America,San Jose,16509,6 ms
+204.110.220.240,80,true,SJC,North America,San Jose,16509,6 ms
+3.23.238.192,80,false,ORD,North America,Chicago,16509,6 ms
+204.110.220.9,80,true,SJC,North America,San Jose,16509,6 ms
+67.226.221.50,80,true,SJC,North America,San Jose,16509,6 ms
+204.110.223.8,80,true,ORD,North America,Chicago,16509,6 ms
+35.182.7.190,80,true,YUL,North America,Montréal,16509,6 ms
+204.110.220.41,80,true,SJC,North America,San Jose,16509,6 ms
+52.90.126.159,80,false,IAD,North America,Ashburn,14618,6 ms
+34.237.11.95,80,false,IAD,North America,Ashburn,14618,6 ms
+52.87.80.149,80,false,IAD,North America,Ashburn,14618,6 ms
+204.110.220.228,80,true,SJC,North America,San Jose,16509,6 ms
+52.32.90.142,80,true,SEA,North America,Seattle,16509,6 ms
+18.193.131.26,80,false,FRA,Europe,Frankfurt,16509,6 ms
+52.32.90.142,80,true,SEA,North America,Seattle,16509,6 ms
+44.228.63.60,80,true,SEA,North America,Seattle,16509,6 ms
+54.163.182.65,80,false,IAD,North America,Ashburn,14618,6 ms
+204.110.220.88,80,true,SJC,North America,San Jose,16509,6 ms
+57.182.98.178,80,false,NRT,Asia Pacific,Tokyo,16509,6 ms
+54.202.115.66,80,true,SEA,North America,Seattle,16509,6 ms
+54.203.85.46,80,true,SEA,North America,Seattle,16509,6 ms
+204.110.220.114,80,true,SJC,North America,San Jose,16509,6 ms
+3.97.173.206,80,true,YUL,North America,Montréal,16509,6 ms
+204.110.220.105,80,true,SJC,North America,San Jose,16509,6 ms
+3.111.137.178,80,false,BOM,Asia Pacific,Mumbai,16509,6 ms
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,16509,6 ms
+54.177.196.101,80,true,SJC,North America,San Jose,16509,6 ms
+3.69.0.8,80,false,FRA,Europe,Frankfurt,16509,6 ms
+67.226.221.5,80,true,SJC,North America,San Jose,16509,6 ms
+18.198.227.161,80,false,FRA,Europe,Frankfurt,16509,6 ms
+3.69.0.8,80,false,FRA,Europe,Frankfurt,16509,6 ms
+3.220.234.82,80,false,IAD,North America,Ashburn,14618,6 ms
+54.213.94.219,80,false,SEA,North America,Seattle,16509,6 ms
+18.196.70.197,80,false,FRA,Europe,Frankfurt,16509,6 ms
+35.157.240.237,80,false,FRA,Europe,Frankfurt,16509,6 ms
+54.202.115.66,80,true,SEA,North America,Seattle,16509,7 ms
+3.127.55.133,80,false,FRA,Europe,Frankfurt,16509,7 ms
+52.41.218.4,80,true,SEA,North America,Seattle,16509,7 ms
+204.110.220.172,80,true,SJC,North America,San Jose,16509,7 ms
+18.156.209.101,80,false,FRA,Europe,Frankfurt,16509,7 ms
+54.213.241.206,80,false,SEA,North America,Seattle,16509,7 ms
+204.110.220.8,80,true,SJC,North America,San Jose,16509,7 ms
+204.110.220.151,80,true,SJC,North America,San Jose,16509,7 ms
+3.23.238.192,80,false,ORD,North America,Chicago,16509,8 ms
+3.68.62.122,80,false,FRA,Europe,Frankfurt,16509,8 ms
+67.226.221.100,80,true,SJC,North America,San Jose,16509,8 ms
+67.226.221.240,80,true,SJC,North America,San Jose,16509,9 ms
+54.177.181.158,80,true,SJC,North America,San Jose,16509,10 ms
+52.10.78.7,80,true,SEA,North America,Seattle,16509,13 ms
+204.110.220.211,80,true,SJC,North America,San Jose,16509,14 ms
+65.1.148.157,80,false,BOM,Asia Pacific,Mumbai,16509,17 ms
+3.101.102.25,80,true,SJC,North America,San Jose,16509,18 ms
+54.221.130.14,80,false,IAD,North America,Ashburn,14618,27 ms
+54.254.190.97,2052,false,SIN,Asia Pacific,Singapore,16509,30 ms
+52.76.182.63,2095,false,SIN,Asia Pacific,Singapore,16509,32 ms
+18.141.48.117,443,false,SIN,Asia Pacific,Singapore,16509,32 ms
+13.250.14.76,443,true,SIN,Asia Pacific,Singapore,16509,33 ms
+18.141.48.117,443,false,SIN,Asia Pacific,Singapore,16509,33 ms
+175.41.148.129,443,true,SIN,Asia Pacific,Singapore,16509,33 ms
+54.254.190.97,2086,false,SIN,Asia Pacific,Singapore,16509,34 ms
+54.251.118.130,2083,false,SIN,Asia Pacific,Singapore,16509,35 ms
+13.250.38.94,80,false,SIN,Asia Pacific,Singapore,16509,51 ms
+16.163.147.103,8443,true,HKG,Asia Pacific,Hong Kong,16509,58 ms
+16.163.147.103,2053,true,HKG,Asia Pacific,Hong Kong,16509,63 ms
+18.162.134.60,8443,true,HKG,Asia Pacific,Hong Kong,16509,69 ms
+54.150.75.95,2086,false,NRT,Asia Pacific,Tokyo,16509,98 ms
+3.108.0.17,2052,false,BOM,Asia Pacific,Mumbai,16509,99 ms
+13.114.192.162,443,false,NRT,Asia Pacific,Tokyo,16509,99 ms
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,16509,99 ms
+3.7.108.69,443,true,BOM,Asia Pacific,Mumbai,16509,100 ms
+54.168.100.81,2086,true,HKG,Asia Pacific,Hong Kong,16509,100 ms
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,16509,100 ms
+54.150.75.95,2083,false,NRT,Asia Pacific,Tokyo,16509,100 ms
+43.206.192.211,443,true,NRT,Asia Pacific,Tokyo,16509,100 ms
+18.176.35.171,2052,false,NRT,Asia Pacific,Tokyo,16509,101 ms
+13.230.34.30,80,false,NRT,Asia Pacific,Tokyo,16509,101 ms
+13.114.59.37,2052,false,NRT,Asia Pacific,Tokyo,16509,102 ms
+35.78.28.183,2083,false,NRT,Asia Pacific,Tokyo,16509,102 ms
+54.168.100.81,2086,true,HKG,Asia Pacific,Hong Kong,16509,102 ms
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,16509,102 ms
+13.113.68.190,443,true,NRT,Asia Pacific,Tokyo,16509,103 ms
+35.78.28.183,2095,false,NRT,Asia Pacific,Tokyo,16509,103 ms
+52.197.230.94,443,true,NRT,Asia Pacific,Tokyo,16509,103 ms
+54.150.160.166,2083,false,NRT,Asia Pacific,Tokyo,16509,104 ms
+54.248.121.219,443,true,NRT,Asia Pacific,Tokyo,16509,104 ms
+35.78.28.183,2096,false,NRT,Asia Pacific,Tokyo,16509,104 ms
+3.111.72.70,2083,false,BOM,Asia Pacific,Mumbai,16509,104 ms
+54.150.75.95,2096,false,NRT,Asia Pacific,Tokyo,16509,105 ms
+54.248.121.219,443,true,NRT,Asia Pacific,Tokyo,16509,105 ms
+54.199.11.181,2052,false,NRT,Asia Pacific,Tokyo,16509,105 ms
+54.199.222.232,443,true,NRT,Asia Pacific,Tokyo,16509,108 ms
+57.182.98.178,443,false,NRT,Asia Pacific,Tokyo,16509,115 ms
+54.150.75.95,2052,false,NRT,Asia Pacific,Tokyo,16509,118 ms
+52.64.153.64,2052,false,SYD,Oceania,Sydney,16509,119 ms
+54.79.129.232,2053,false,SYD,Oceania,Sydney,16509,121 ms
+3.105.12.136,2083,false,SYD,Oceania,Sydney,16509,122 ms
+54.79.133.41,443,true,SYD,Oceania,Sydney,16509,122 ms
+52.65.99.165,2086,false,SYD,Oceania,Sydney,16509,122 ms
+54.79.197.209,2086,false,SYD,Oceania,Sydney,16509,123 ms
+52.65.52.144,2095,false,SYD,Oceania,Sydney,16509,123 ms
+54.66.80.167,2083,false,SYD,Oceania,Sydney,16509,123 ms
+54.252.91.41,2096,false,SYD,Oceania,Sydney,16509,123 ms
+52.65.52.144,2052,false,SYD,Oceania,Sydney,16509,123 ms
+54.79.133.41,443,true,SYD,Oceania,Sydney,16509,123 ms
+3.24.11.240,2096,false,SYD,Oceania,Sydney,16509,123 ms
+54.79.197.209,2053,false,SYD,Oceania,Sydney,16509,124 ms
+54.252.91.41,2052,false,SYD,Oceania,Sydney,16509,124 ms
+54.79.129.232,2083,false,SYD,Oceania,Sydney,16509,124 ms
+13.238.235.196,2052,false,SYD,Oceania,Sydney,16509,124 ms
+52.65.99.165,2053,false,SYD,Oceania,Sydney,16509,124 ms
+54.66.80.167,2082,false,SYD,Oceania,Sydney,16509,125 ms
+54.253.222.7,2082,false,SYD,Oceania,Sydney,16509,125 ms
+54.79.197.209,2082,false,SYD,Oceania,Sydney,16509,125 ms
+54.79.129.232,2086,false,SYD,Oceania,Sydney,16509,125 ms
+3.24.174.233,443,true,SYD,Oceania,Sydney,16509,125 ms
+54.79.129.232,2052,false,SYD,Oceania,Sydney,16509,125 ms
+52.65.99.165,2096,false,SYD,Oceania,Sydney,16509,125 ms
+13.237.94.188,2083,false,SYD,Oceania,Sydney,16509,125 ms
+52.65.99.165,2083,false,SYD,Oceania,Sydney,16509,125 ms
+52.65.99.165,2052,false,SYD,Oceania,Sydney,16509,125 ms
+54.252.91.41,2082,false,SYD,Oceania,Sydney,16509,125 ms
+3.105.185.150,2086,false,SYD,Oceania,Sydney,16509,126 ms
+13.237.94.188,2052,false,SYD,Oceania,Sydney,16509,126 ms
+13.237.94.188,2087,false,SYD,Oceania,Sydney,16509,127 ms
+54.253.222.7,2096,false,SYD,Oceania,Sydney,16509,127 ms
+3.105.12.136,2086,false,SYD,Oceania,Sydney,16509,127 ms
+54.150.75.95,2083,false,NRT,Asia Pacific,Tokyo,16509,130 ms
+3.24.174.233,443,true,SYD,Oceania,Sydney,16509,130 ms
+35.178.169.40,2096,true,LHR,Europe,London,16509,188 ms
+35.178.169.40,2096,true,LHR,Europe,London,16509,188 ms
+18.159.137.214,2095,false,FRA,Europe,Frankfurt,16509,190 ms
+18.157.78.22,2086,false,FRA,Europe,Frankfurt,16509,192 ms
+35.159.168.72,443,true,FRA,Europe,Frankfurt,16509,192 ms
+44.227.209.152,443,true,PDX,North America,Portland,16509,193 ms
+3.9.9.137,2053,true,LHR,Europe,London,16509,193 ms
+18.135.67.188,443,true,LHR,Europe,London,16509,193 ms
+18.185.254.189,443,true,FRA,Europe,Frankfurt,16509,194 ms
+3.8.119.10,2096,true,LHR,Europe,London,16509,194 ms
+18.159.137.214,2096,false,FRA,Europe,Frankfurt,16509,195 ms
+18.192.62.218,443,true,FRA,Europe,Frankfurt,16509,195 ms
+18.192.152.35,2053,true,FRA,Europe,Frankfurt,16509,195 ms
+3.9.9.137,2053,true,LHR,Europe,London,16509,195 ms
+34.218.205.118,80,true,SEA,North America,Seattle,16509,195 ms
+18.197.195.222,2053,true,FRA,Europe,Frankfurt,16509,195 ms
+18.197.218.69,443,true,FRA,Europe,Frankfurt,16509,195 ms
+18.184.226.83,443,true,FRA,Europe,Frankfurt,16509,195 ms
+3.8.210.128,2053,true,LHR,Europe,London,16509,195 ms
+18.156.21.22,443,true,FRA,Europe,Frankfurt,16509,195 ms
+18.135.188.86,443,true,LHR,Europe,London,16509,195 ms
+18.192.152.35,8443,true,FRA,Europe,Frankfurt,16509,195 ms
+18.193.144.17,443,true,FRA,Europe,Frankfurt,16509,196 ms
+18.157.78.22,2096,false,FRA,Europe,Frankfurt,16509,196 ms
+3.9.12.200,443,true,LHR,Europe,London,16509,196 ms
+18.159.111.125,2053,true,FRA,Europe,Frankfurt,16509,196 ms
+18.185.51.67,8080,true,FRA,Europe,Frankfurt,16509,196 ms
+34.218.205.118,443,true,SEA,North America,Seattle,16509,196 ms
+35.159.168.72,443,true,FRA,Europe,Frankfurt,16509,196 ms
+18.157.78.22,2095,false,FRA,Europe,Frankfurt,16509,196 ms
+44.228.63.60,443,true,SEA,North America,Seattle,16509,196 ms
+18.134.37.97,443,true,LHR,Europe,London,16509,196 ms
+44.227.209.152,443,true,PDX,North America,Portland,16509,196 ms
+18.153.166.250,8443,true,FRA,Europe,Frankfurt,16509,197 ms
+44.224.24.91,443,true,SEA,North America,Seattle,16509,197 ms
+18.185.239.33,2053,true,FRA,Europe,Frankfurt,16509,197 ms
+44.227.22.10,443,true,SEA,North America,Seattle,16509,197 ms
+34.218.205.118,443,true,SEA,North America,Seattle,16509,197 ms
+34.208.221.169,443,true,SEA,North America,Seattle,16509,197 ms
+18.153.166.250,2053,true,FRA,Europe,Frankfurt,16509,197 ms
+34.210.14.70,80,false,SEA,North America,Seattle,16509,197 ms
+34.218.130.79,443,true,SEA,North America,Seattle,16509,197 ms
+44.228.63.60,443,true,SEA,North America,Seattle,16509,197 ms
+52.29.224.33,443,true,FRA,Europe,Frankfurt,16509,198 ms
+34.217.29.132,8443,true,SEA,North America,Seattle,16509,198 ms
+3.127.87.124,443,true,FRA,Europe,Frankfurt,16509,198 ms
+3.73.13.245,2053,true,FRA,Europe,Frankfurt,16509,198 ms
+44.227.78.80,443,true,SEA,North America,Seattle,16509,198 ms
+54.203.85.46,443,true,SEA,North America,Seattle,16509,198 ms
+34.219.53.148,443,true,PDX,North America,Portland,16509,198 ms
+3.73.124.222,2083,true,FRA,Europe,Frankfurt,16509,198 ms
+3.9.9.137,8443,true,LHR,Europe,London,16509,199 ms
+3.73.13.245,443,true,FRA,Europe,Frankfurt,16509,199 ms
+35.181.193.61,443,true,CDG,Europe,Paris,16509,199 ms
+18.153.49.248,8443,true,FRA,Europe,Frankfurt,16509,199 ms
+13.38.157.206,8443,true,CDG,Europe,Paris,16509,199 ms
+54.203.85.46,443,true,SEA,North America,Seattle,16509,199 ms
+3.76.154.119,443,true,FRA,Europe,Frankfurt,16509,199 ms
+44.230.218.23,443,true,SEA,North America,Seattle,16509,200 ms
+13.37.178.216,443,true,CDG,Europe,Paris,16509,200 ms
+3.73.13.245,443,true,FRA,Europe,Frankfurt,16509,200 ms
+44.230.218.23,443,true,SEA,North America,Seattle,16509,200 ms
+44.226.147.29,443,true,SEA,North America,Seattle,16509,200 ms
+44.227.78.80,443,true,SEA,North America,Seattle,16509,200 ms
+44.226.147.29,443,true,SEA,North America,Seattle,16509,200 ms
+52.41.218.4,443,true,SEA,North America,Seattle,16509,200 ms
+3.79.117.14,443,true,FRA,Europe,Frankfurt,16509,200 ms
+3.76.206.85,443,true,FRA,Europe,Frankfurt,16509,201 ms
+3.9.9.137,8443,true,LHR,Europe,London,16509,201 ms
+3.73.13.245,2053,true,FRA,Europe,Frankfurt,16509,201 ms
+35.180.229.1,443,true,CDG,Europe,Paris,16509,201 ms
+52.88.206.139,8443,true,PDX,North America,Portland,16509,201 ms
+3.79.117.14,443,true,FRA,Europe,Frankfurt,16509,201 ms
+35.181.193.61,2053,true,CDG,Europe,Paris,16509,201 ms
+54.246.42.63,2053,true,DUB,Europe,Dublin,16509,201 ms
+52.40.102.162,443,true,SEA,North America,Seattle,16509,202 ms
+34.219.53.148,443,true,PDX,North America,Portland,16509,202 ms
+52.35.114.64,443,true,SEA,North America,Seattle,16509,202 ms
+34.218.205.118,80,true,SEA,North America,Seattle,16509,202 ms
+35.181.77.67,443,true,CDG,Europe,Paris,16509,202 ms
+13.37.222.36,443,true,CDG,Europe,Paris,16509,202 ms
+99.80.238.19,2087,false,DUB,Europe,Dublin,16509,202 ms
+52.42.71.111,443,true,SEA,North America,Seattle,16509,203 ms
+52.18.205.36,2082,false,DUB,Europe,Dublin,16509,203 ms
+35.181.193.61,2053,true,CDG,Europe,Paris,16509,203 ms
+35.181.193.61,443,true,CDG,Europe,Paris,16509,203 ms
+3.70.92.227,2095,false,FRA,Europe,Frankfurt,16509,203 ms
+52.18.205.36,2096,false,DUB,Europe,Dublin,16509,203 ms
+52.40.102.162,443,true,SEA,North America,Seattle,16509,203 ms
+35.180.229.1,443,true,CDG,Europe,Paris,16509,203 ms
+3.120.76.162,2082,false,FRA,Europe,Frankfurt,16509,204 ms
+99.80.238.19,2053,false,DUB,Europe,Dublin,16509,204 ms
+99.80.238.19,2096,false,DUB,Europe,Dublin,16509,204 ms
+52.18.205.36,2087,false,DUB,Europe,Dublin,16509,204 ms
+3.120.137.26,2096,false,FRA,Europe,Frankfurt,16509,204 ms
+3.76.154.119,443,true,FRA,Europe,Frankfurt,16509,205 ms
+52.18.205.36,2053,false,DUB,Europe,Dublin,16509,205 ms
+3.120.76.162,2095,false,FRA,Europe,Frankfurt,16509,206 ms
+35.167.93.200,443,true,SEA,North America,Seattle,16509,206 ms
+3.120.137.26,2083,false,FRA,Europe,Frankfurt,16509,207 ms
+3.123.255.167,443,true,FRA,Europe,Frankfurt,16509,207 ms
+3.120.76.162,2096,false,FRA,Europe,Frankfurt,16509,207 ms
+63.176.11.74,2096,true,FRA,Europe,Frankfurt,16509,207 ms
+3.123.41.161,2053,true,FRA,Europe,Frankfurt,16509,207 ms
+3.120.76.162,2087,false,FRA,Europe,Frankfurt,16509,207 ms
+3.123.242.99,443,true,FRA,Europe,Frankfurt,16509,208 ms
+54.213.215.13,8443,true,PDX,North America,Portland,16509,208 ms
+3.120.212.75,443,true,FRA,Europe,Frankfurt,16509,208 ms
+52.42.71.111,443,true,SEA,North America,Seattle,16509,208 ms
+35.167.93.200,443,true,SEA,North America,Seattle,16509,208 ms
+35.160.232.154,8443,true,SEA,North America,Seattle,16509,208 ms
+35.160.18.63,80,false,SEA,North America,Seattle,16509,209 ms
+3.123.202.92,2053,true,FRA,Europe,Frankfurt,16509,209 ms
+50.112.33.254,443,true,SEA,North America,Seattle,16509,209 ms
+52.89.138.13,443,true,SEA,North America,Seattle,16509,209 ms
+3.120.175.8,2096,true,FRA,Europe,Frankfurt,16509,209 ms
+63.176.11.74,2096,true,FRA,Europe,Frankfurt,16509,209 ms
+63.177.127.157,443,true,FRA,Europe,Frankfurt,16509,209 ms
+35.94.239.71,8443,true,SEA,North America,Seattle,16509,209 ms
+3.123.242.99,443,true,FRA,Europe,Frankfurt,16509,209 ms
+3.120.76.162,2086,false,FRA,Europe,Frankfurt,16509,210 ms
+18.198.168.3,443,true,FRA,Europe,Frankfurt,16509,210 ms
+35.93.180.121,8443,true,SEA,North America,Seattle,16509,210 ms
+3.120.212.75,443,true,FRA,Europe,Frankfurt,16509,210 ms
+52.35.114.64,443,true,SEA,North America,Seattle,16509,211 ms
+3.123.41.161,8443,true,FRA,Europe,Frankfurt,16509,211 ms
+18.198.227.161,443,true,FRA,Europe,Frankfurt,16509,211 ms
+3.123.41.161,2053,true,FRA,Europe,Frankfurt,16509,211 ms
+54.71.238.195,443,true,SEA,North America,Seattle,16509,211 ms
+35.167.93.200,80,true,SEA,North America,Seattle,16509,211 ms
+67.226.221.131,443,true,SJC,North America,San Jose,16509,211 ms
+52.38.6.43,443,true,SEA,North America,Seattle,16509,211 ms
+35.155.38.149,443,true,PDX,North America,Portland,16509,211 ms
+3.122.86.99,443,true,FRA,Europe,Frankfurt,16509,212 ms
+54.71.238.195,443,true,SEA,North America,Seattle,16509,212 ms
+54.213.215.13,8443,true,PDX,North America,Portland,16509,212 ms
+3.123.202.92,8443,true,FRA,Europe,Frankfurt,16509,212 ms
+67.226.221.32,443,true,SJC,North America,San Jose,16509,212 ms
+54.200.244.93,443,true,PDX,North America,Portland,16509,212 ms
+3.120.175.8,2096,true,FRA,Europe,Frankfurt,16509,213 ms
+3.123.202.92,8443,true,FRA,Europe,Frankfurt,16509,213 ms
+35.95.237.8,443,true,SEA,North America,Seattle,16509,213 ms
+67.226.221.240,443,true,SJC,North America,San Jose,16509,214 ms
+52.89.138.13,443,true,SEA,North America,Seattle,16509,214 ms
+54.190.156.147,8443,true,PDX,North America,Portland,16509,214 ms
+18.102.5.243,2087,false,MXP,Europe,Milan,16509,215 ms
+35.167.93.200,80,true,SEA,North America,Seattle,16509,215 ms
+52.11.38.216,443,true,SEA,North America,Seattle,16509,215 ms
+54.148.167.46,443,true,SEA,North America,Seattle,16509,216 ms
+52.89.97.12,443,true,SEA,North America,Seattle,16509,216 ms
+50.112.166.63,443,true,SEA,North America,Seattle,16509,216 ms
+52.38.6.43,443,true,SEA,North America,Seattle,16509,217 ms
+35.83.185.225,443,true,PDX,North America,Portland,16509,217 ms
+52.41.218.4,443,true,SEA,North America,Seattle,16509,217 ms
+35.155.38.149,443,true,PDX,North America,Portland,16509,217 ms
+51.20.10.240,8443,true,ARN,Europe,Stockholm,16509,217 ms
+18.236.13.188,443,true,SEA,North America,Seattle,16509,217 ms
+52.24.15.209,443,true,SEA,North America,Seattle,16509,218 ms
+52.24.15.209,443,true,SEA,North America,Seattle,16509,218 ms
+51.20.238.138,8080,true,ARN,Europe,Stockholm,16509,219 ms
+35.81.207.167,443,true,SEA,North America,Seattle,16509,219 ms
+52.12.162.159,443,true,SEA,North America,Seattle,16509,219 ms
+51.20.99.157,443,true,CPH,Europe,Copenhagen,16509,219 ms
+51.21.48.77,443,true,ARN,Europe,Stockholm,16509,219 ms
+51.20.161.26,443,true,ARN,Europe,Stockholm,16509,220 ms
+51.20.238.138,8080,true,ARN,Europe,Stockholm,16509,220 ms
+67.226.221.248,443,true,SJC,North America,San Jose,16509,220 ms
+51.20.10.240,2087,true,ARN,Europe,Stockholm,16509,220 ms
+51.20.121.201,443,true,ARN,Europe,Stockholm,16509,220 ms
+51.20.10.240,2087,true,ARN,Europe,Stockholm,16509,220 ms
+54.148.167.46,443,true,SEA,North America,Seattle,16509,221 ms
+51.20.207.0,443,true,ARN,Europe,Stockholm,16509,221 ms
+52.10.78.7,443,true,SEA,North America,Seattle,16509,221 ms
+18.102.5.243,2086,false,MXP,Europe,Milan,16509,221 ms
+67.226.221.243,443,true,SJC,North America,San Jose,16509,221 ms
+54.187.212.113,2053,true,PDX,North America,Portland,16509,221 ms
+67.226.221.160,443,true,SJC,North America,San Jose,16509,221 ms
+16.171.114.20,2053,true,ARN,Europe,Stockholm,16509,221 ms
+18.101.118.37,2052,false,MAD,Europe,Madrid,16509,221 ms
+51.92.103.115,2082,false,MAD,Europe,Madrid,16509,222 ms
+51.20.99.157,443,true,CPH,Europe,Copenhagen,16509,222 ms
+51.92.103.115,2053,false,MAD,Europe,Madrid,16509,222 ms
+51.21.48.77,443,true,ARN,Europe,Stockholm,16509,222 ms
+16.171.114.20,8443,true,ARN,Europe,Stockholm,16509,222 ms
+51.92.103.115,2053,false,MAD,Europe,Madrid,16509,222 ms
+52.10.78.7,443,true,SEA,North America,Seattle,16509,222 ms
+18.101.87.56,2053,false,MAD,Europe,Madrid,16509,222 ms
+213.170.157.1,443,true,SEA,North America,Seattle,16509,222 ms
+51.20.161.26,443,true,ARN,Europe,Stockholm,16509,222 ms
+16.171.209.44,8080,true,ARN,Europe,Stockholm,16509,223 ms
+18.101.242.202,2095,false,MAD,Europe,Madrid,16509,223 ms
+51.20.207.0,443,true,ARN,Europe,Stockholm,16509,223 ms
+51.92.70.133,2087,false,MAD,Europe,Madrid,16509,223 ms
+18.101.242.202,2096,false,MAD,Europe,Madrid,16509,223 ms
+52.12.162.159,443,true,SEA,North America,Seattle,16509,223 ms
+51.92.103.115,2086,false,MAD,Europe,Madrid,16509,223 ms
+51.20.184.1,2096,true,ARN,Europe,Stockholm,16509,224 ms
+51.92.10.146,2086,false,MAD,Europe,Madrid,16509,224 ms
+54.187.212.113,8443,true,PDX,North America,Portland,16509,225 ms
+51.20.10.240,2096,true,ARN,Europe,Stockholm,16509,225 ms
+51.92.103.115,2052,false,MAD,Europe,Madrid,16509,225 ms
+51.92.10.146,2086,false,MAD,Europe,Madrid,16509,226 ms
+51.92.10.146,2083,false,MAD,Europe,Madrid,16509,228 ms
+18.101.242.202,2053,false,MAD,Europe,Madrid,16509,228 ms
+51.92.70.133,2082,false,MAD,Europe,Madrid,16509,228 ms
+18.101.87.56,2082,false,MAD,Europe,Madrid,16509,230 ms
+18.218.172.40,443,true,CMH,North America,Columbus,16509,258 ms
+54.166.213.213,8443,true,IAD,North America,Ashburn,14618,258 ms
+3.16.25.164,443,true,CMH,North America,Columbus,16509,261 ms
+3.141.5.220,443,true,CMH,North America,Columbus,16509,263 ms
+52.14.17.58,443,true,CMH,North America,Columbus,16509,263 ms
+3.14.150.173,443,true,CMH,North America,Columbus,16509,263 ms
+3.18.196.26,443,true,CMH,North America,Columbus,16509,263 ms
+3.15.147.151,2083,true,IAD,North America,Ashburn,16509,263 ms
+3.15.162.101,443,true,CMH,North America,Columbus,16509,265 ms
+3.18.8.87,443,false,CMH,North America,Columbus,16509,265 ms
+3.14.150.173,443,true,CMH,North America,Columbus,16509,266 ms
+52.14.17.58,443,true,CMH,North America,Columbus,16509,266 ms
+3.16.55.231,443,true,CMH,North America,Columbus,16509,266 ms
+3.141.5.220,443,true,CMH,North America,Columbus,16509,266 ms
+3.19.62.141,443,true,CMH,North America,Columbus,16509,267 ms
+3.18.196.26,443,true,IAD,North America,Ashburn,16509,267 ms
+3.16.55.231,443,true,CMH,North America,Columbus,16509,267 ms
+54.166.213.213,2053,true,IAD,North America,Ashburn,14618,268 ms
+3.137.194.247,443,true,CMH,North America,Columbus,16509,268 ms
+3.15.147.151,2083,true,IAD,North America,Ashburn,16509,268 ms
+3.16.25.164,443,true,CMH,North America,Columbus,16509,268 ms
+35.183.163.195,443,true,YUL,North America,Montréal,16509,269 ms
+3.137.194.247,443,true,CMH,North America,Columbus,16509,269 ms
+54.209.243.95,443,true,IAD,North America,Ashburn,14618,269 ms
+3.140.254.135,443,true,CMH,North America,Columbus,16509,270 ms
+3.138.59.154,443,true,CMH,North America,Columbus,16509,271 ms
+35.182.7.190,443,true,YUL,North America,Montréal,16509,271 ms
+3.216.234.194,443,true,IAD,North America,Ashburn,14618,272 ms
+3.18.8.87,443,false,CMH,North America,Columbus,16509,272 ms
+54.172.226.111,2053,true,IAD,North America,Ashburn,14618,272 ms
+35.183.163.195,443,true,YUL,North America,Montréal,16509,273 ms
+52.91.81.62,443,true,IAD,North America,Ashburn,14618,273 ms
+34.225.195.136,443,true,IAD,North America,Ashburn,14618,273 ms
+54.236.212.166,8443,true,IAD,North America,Ashburn,14618,273 ms
+3.140.254.135,443,true,CMH,North America,Columbus,16509,274 ms
+44.193.200.205,443,true,IAD,North America,Ashburn,14618,274 ms
+3.239.16.253,443,true,IAD,North America,Ashburn,14618,274 ms
+3.15.162.101,443,true,CMH,North America,Columbus,16509,275 ms
+54.80.145.6,443,true,IAD,North America,Ashburn,14618,276 ms
+35.172.199.187,443,true,IAD,North America,Ashburn,14618,276 ms
+3.239.62.88,443,true,IAD,North America,Ashburn,14618,276 ms
+3.99.147.170,443,false,YUL,North America,Montréal,16509,277 ms
+44.198.0.228,80,false,IAD,North America,Ashburn,14618,278 ms
+98.84.107.126,2096,true,IAD,North America,Ashburn,14618,278 ms
+44.202.3.237,443,true,IAD,North America,Ashburn,14618,278 ms
+34.227.133.207,443,true,IAD,North America,Ashburn,14618,278 ms
+3.230.207.59,8443,true,IAD,North America,Ashburn,14618,278 ms
+44.215.13.71,80,false,IAD,North America,Ashburn,14618,278 ms
+3.138.59.154,443,true,ORD,North America,Chicago,16509,279 ms
+3.238.101.3,443,true,IAD,North America,Ashburn,14618,279 ms
+3.239.250.136,443,true,IAD,North America,Ashburn,14618,279 ms
+3.96.221.73,443,false,YUL,North America,Montréal,16509,279 ms
+54.204.39.251,443,true,IAD,North America,Ashburn,14618,280 ms
+35.171.204.134,443,true,IAD,North America,Ashburn,14618,280 ms
+23.20.107.131,443,true,IAD,North America,Ashburn,14618,280 ms
+44.222.79.38,443,true,IAD,North America,Ashburn,14618,281 ms
+3.22.208.28,443,true,CMH,North America,Columbus,16509,281 ms
+3.99.106.179,443,true,YUL,North America,Montréal,16509,281 ms
+204.110.223.140,443,true,CMH,North America,Columbus,16509,281 ms
+98.84.107.126,2083,true,IAD,North America,Ashburn,14618,281 ms
+204.110.223.104,443,true,CMH,North America,Columbus,16509,281 ms
+23.20.48.68,80,false,IAD,North America,Ashburn,14618,281 ms
+3.97.1.47,2086,false,YUL,North America,Montréal,16509,281 ms
+54.236.212.166,2053,true,IAD,North America,Ashburn,14618,281 ms
+3.99.147.170,443,false,YUL,North America,Montréal,16509,282 ms
+3.129.87.244,443,true,CMH,North America,Columbus,16509,282 ms
+44.209.255.249,443,true,IAD,North America,Ashburn,14618,282 ms
+3.145.159.216,443,true,CMH,North America,Columbus,16509,282 ms
+3.22.208.28,443,true,CMH,North America,Columbus,16509,282 ms
+3.215.143.191,443,true,IAD,North America,Ashburn,14618,282 ms
+3.86.85.68,443,true,IAD,North America,Ashburn,14618,282 ms
+52.4.8.214,443,true,IAD,North America,Ashburn,14618,283 ms
+18.118.18.178,443,true,CMH,North America,Columbus,16509,283 ms
+18.189.94.250,443,true,ORD,North America,Chicago,16509,283 ms
+3.148.30.111,443,true,ORD,North America,Chicago,16509,283 ms
+18.220.220.234,443,true,CMH,North America,Columbus,16509,283 ms
+3.93.39.89,443,true,IAD,North America,Ashburn,14618,283 ms
+3.96.246.140,2053,false,YUL,North America,Montréal,16509,283 ms
+3.129.183.128,443,true,CMH,North America,Columbus,16509,284 ms
+3.230.207.59,2087,true,IAD,North America,Ashburn,14618,284 ms
+54.172.226.111,8443,true,IAD,North America,Ashburn,14618,284 ms
+3.96.246.140,2052,false,YUL,North America,Montréal,16509,284 ms
+3.128.90.241,443,true,CMH,North America,Columbus,16509,284 ms
+18.188.90.219,443,true,IAD,North America,Ashburn,16509,284 ms
+3.23.175.7,2096,true,ORD,North America,Chicago,16509,284 ms
+3.145.134.61,443,true,CMH,North America,Columbus,16509,284 ms
+3.144.191.4,443,true,CMH,North America,Columbus,16509,284 ms
+18.226.185.62,8443,true,IAD,North America,Ashburn,16509,285 ms
+3.22.241.99,443,true,ORD,North America,Chicago,16509,285 ms
+34.201.36.247,80,false,IAD,North America,Ashburn,14618,285 ms
+18.222.132.46,443,true,CMH,North America,Columbus,16509,285 ms
+3.129.87.244,443,true,CMH,North America,Columbus,16509,286 ms
+3.96.246.140,2095,false,YUL,North America,Montréal,16509,286 ms
+3.230.207.59,2095,true,IAD,North America,Ashburn,14618,286 ms
+18.188.202.165,443,true,CMH,North America,Columbus,16509,286 ms
+35.171.140.167,443,true,IAD,North America,Ashburn,14618,287 ms
+18.117.255.186,443,true,CMH,North America,Columbus,16509,287 ms
+204.110.223.27,443,true,ORD,North America,Chicago,16509,287 ms
+34.234.8.26,443,true,IAD,North America,Ashburn,14618,287 ms
+3.128.90.254,443,true,CMH,North America,Columbus,16509,288 ms
+3.145.122.144,443,true,CMH,North America,Columbus,16509,288 ms
+204.110.223.213,443,true,CMH,North America,Columbus,16509,289 ms
+3.96.246.140,2087,false,YUL,North America,Montréal,16509,289 ms
+3.129.27.14,443,true,CMH,North America,Columbus,16509,289 ms
+3.96.246.140,2082,false,YUL,North America,Montréal,16509,289 ms
+18.188.58.86,443,true,CMH,North America,Columbus,16509,289 ms
+3.145.159.216,443,true,CMH,North America,Columbus,16509,289 ms
+3.99.140.50,443,true,YUL,North America,Montréal,16509,289 ms
+3.86.231.180,443,true,IAD,North America,Ashburn,14618,289 ms
+3.99.106.179,443,true,YUL,North America,Montréal,16509,290 ms
+18.222.145.58,443,true,ORD,North America,Chicago,16509,290 ms
+3.128.253.42,2053,true,ORD,North America,Chicago,16509,290 ms
+3.99.192.219,443,true,EWR,North America,Newark,16509,290 ms
+204.110.223.224,443,true,ORD,North America,Chicago,16509,291 ms
+3.144.191.4,443,true,CMH,North America,Columbus,16509,291 ms
+3.98.73.243,443,true,YUL,North America,Montréal,16509,291 ms
+3.129.27.14,443,true,CMH,North America,Columbus,16509,291 ms
+18.117.87.32,443,true,CMH,North America,Columbus,16509,291 ms
+18.191.214.111,443,true,CMH,North America,Columbus,16509,291 ms
+3.99.140.50,443,true,YUL,North America,Montréal,16509,291 ms
+3.99.192.219,443,true,EWR,North America,Newark,16509,291 ms
+18.191.122.211,443,true,CMH,North America,Columbus,16509,291 ms
+3.128.90.254,443,true,CMH,North America,Columbus,16509,291 ms
+3.145.134.61,443,true,CMH,North America,Columbus,16509,291 ms
+3.128.253.42,2053,true,ORD,North America,Chicago,16509,291 ms
+18.118.15.83,443,true,CMH,North America,Columbus,16509,291 ms
+3.132.116.250,443,true,CMH,North America,Columbus,16509,292 ms
+44.217.235.114,8443,true,IAD,North America,Ashburn,14618,292 ms
+54.208.96.155,443,true,IAD,North America,Ashburn,14618,292 ms
+3.132.116.250,443,true,CMH,North America,Columbus,16509,292 ms
+3.128.90.241,443,true,CMH,North America,Columbus,16509,293 ms
+3.98.73.243,443,true,YUL,North America,Montréal,16509,293 ms
+3.144.182.216,443,true,CMH,North America,Columbus,16509,293 ms
+3.144.182.216,443,true,CMH,North America,Columbus,16509,293 ms
+3.22.241.99,443,true,ORD,North America,Chicago,16509,294 ms
+3.148.30.111,443,true,CMH,North America,Columbus,16509,294 ms
+18.117.131.52,443,true,CMH,North America,Columbus,16509,294 ms
+3.214.164.221,443,true,IAD,North America,Ashburn,14618,295 ms
+18.188.213.141,443,true,CMH,North America,Columbus,16509,295 ms
+34.230.210.239,443,true,IAD,North America,Ashburn,14618,295 ms
+54.167.43.59,443,true,IAD,North America,Ashburn,14618,296 ms
+204.110.223.85,443,true,ORD,North America,Chicago,16509,296 ms
+3.147.73.220,443,true,CMH,North America,Columbus,16509,300 ms
+204.110.223.8,443,true,CMH,North America,Columbus,16509,301 ms
+3.147.73.220,443,true,ORD,North America,Chicago,16509,302 ms
+3.129.183.128,443,true,CMH,North America,Columbus,16509,309 ms
+40.172.42.247,8443,true,MRS,Europe,Marseille,16509,312 ms
+13.246.85.121,2087,false,JNB,Africa,Johannesburg,16509,339 ms
+18.229.18.106,2087,false,GRU,South America,São Paulo,16509,372 ms
+18.230.13.193,2096,false,GRU,South America,São Paulo,16509,372 ms
+18.230.13.193,2086,false,GRU,South America,São Paulo,16509,377 ms
+18.230.13.193,2052,false,GRU,South America,São Paulo,16509,379 ms
+54.94.181.99,2087,false,GRU,South America,São Paulo,16509,380 ms
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazon
 43.218.77.16,1443,ID,Amazon
