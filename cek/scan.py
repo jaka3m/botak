@@ -12,7 +12,7 @@ OUTPUT_DEAD = os.path.join(BASE_DIR, 'dead.txt')
 API_URL = 'https://cors.jamu.workers.dev/?url=https://checker.wasmer.app/check?ip={ip}:{port}'
 
 # Limit simultan (100-200 aman untuk GitHub Actions)
-CONCURRENT_LIMIT = 150 
+CONCURRENT_LIMIT = 100
 
 # Set untuk tracking IP:Port yang sudah diproses
 processed_proxies = set()
@@ -24,7 +24,7 @@ async def check_proxy(session, p, semaphore):
     async with semaphore:
         try:
             # Timeout diperketat ke 7 detik agar tidak terlalu lama menggantung
-            async with session.get(url, timeout=aiohttp.ClientTimeout(total=7)) as response:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=30)) as response:
                 if response.status == 200:
                     data = await response.json()
                     if data.get('status', '').upper() == 'ACTIVE':
@@ -35,9 +35,9 @@ async def check_proxy(session, p, semaphore):
                 # Jika tidak aktif (tapi respon 200) atau status bukan ACTIVE
                 print(f"❌ {ip}:{port} | Status: {response.status}", flush=True)
                 return False, p, None
-        except Exception:
+        except Exception as e:
             # Print minimal agar log tetap berjalan meski error/timeout
-            print(f"❌ {ip}:{port} | Timeout/Error", flush=True)
+            print(f"❌ {ip}:{port} | Error: {repr(e)}", flush=True)
             return False, p, None
 
 def read_proxies():
