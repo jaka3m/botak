@@ -9,7 +9,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 IP_FILE = os.path.join(BASE_DIR, 'file.txt')
 OUTPUT_ACTIVE = os.path.join(BASE_DIR, 'proxyList.txt')
 OUTPUT_DEAD = os.path.join(BASE_DIR, 'dead.txt')
-API_URL = 'https://checker.wasmer.app/check?ip={ip}:{port}'
+API_URL = 'https://cors.jamu.workers.dev/?url=https://checker.wasmer.app/check?ip={ip}:{port}'
 
 # Limit simultan (100-200 aman untuk GitHub Actions)
 CONCURRENT_LIMIT = 150 
